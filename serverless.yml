@@ -1,5 +1,5 @@
 # CHANGE-TO-YOURNAME-aws-node-http-api-project
-service: 3.12-activity-cd-serverless
+service: jason-3-12-activity-serverless
 frameworkVersion: '3'
 
 provider:
